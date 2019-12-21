@@ -83,12 +83,12 @@
         <dependency>
             <groupId>rs.ltt.jmap</groupId>
             <artifactId>jmap-client</artifactId>
-            <version>0.1.4</version>
+            <version>0.2.0</version>
         </dependency>
         <dependency>
             <groupId>rs.ltt.jmap</groupId>
             <artifactId>jmap-annotation-processor</artifactId>
-            <version>0.1.4</version>
+            <version>0.2.0</version>
             <scope>provided</scope>
         </dependency>
 
